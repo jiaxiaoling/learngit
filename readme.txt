@@ -10,4 +10,4 @@ test branch
 66666
 
 dev add and commit but not merge test branch dev add and commit but dont merge
-
+bug is ok
